@@ -12,7 +12,7 @@
 |LG INR18650-MJ1 3400mAh| [Link](https://electronicmarket.ro/baterie-li-ion-originala-lg-inr18650-mj1-3400mah-10a-18650) | 4 | Batteries|
 | TFT Display | [Aliexpress](https://www.aliexpress.com/item/1005012157261236.html?spm=a2g0o.order_list.order_list_main.11.3e471802RAXXQB)| 1 | Display|
 | LORA Module | [Aliexpress](https://www.aliexpress.com/item/1005003038917144.html?spm=a2g0o.order_list.order_list_main.23.3e471802RAXXQB) | 1 | Long Range Comunication|
-| Custom RP2040 Keyboad | [Github Repo]() | 1 | Control for PiDeck|
+| Custom RP2040 Keyboad | [Github Repo](https://github.com/AndrewC3870/RP2040_Keyboard) | 1 | Control for PiDeck|
 | UPS 15W 5V | [Link]() | 1 | Pass Through Charging|
 | SMA Connector | [OptimusDigital]() | 2 | Antena connector for LORA and for future RTLSDR|
 | Buttons | [Link]() | 10 | For Dpads|
